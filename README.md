@@ -1,1 +1,1 @@
-# School-21_examples_in_the_C_programming_language_(Branch The_first_tasks_in_C)
+# Examples_in_the_C_programming_language_(Branch The_first_tasks_in_C)
